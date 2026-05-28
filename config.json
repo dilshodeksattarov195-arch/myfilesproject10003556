@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecetch",
+        "uuid": 19273520,
+        "checksum": "mknmjn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
